@@ -2,8 +2,7 @@
 
 ## Programming Languages
 
-<img title="Javascript" alt="javascript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="4%" height="4%">
-<img title="Ruby" alt="ruby" src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg"  width="4%" height="4%">
+<img title="Javascript" alt="javascript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="4%" height="4%"> <img title="Ruby" alt="ruby" src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg"  width="4%" height="4%">
 <img title="Rails" alt="rails" src="https://camo.githubusercontent.com/3848b05c57bc263147c21902c7ce532ae7bc5f485450c26f79a6d77580f703f6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7261696c732f7261696c732d706c61696e2e737667"  width="4%" height="4%">
 <img title="CSS" alt="css" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg"  width="4%" height="4%">
 <img title="HTML" alt="html" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg"  width="4%" height="4%">
@@ -13,8 +12,7 @@
 
 ## 💻 Technologies I Use
 
-<img title="Git" alt="git" src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/git.svg"  width="4%" height="4%">
-<img title="NodeJS" alt="nodejs" src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/nodejs.svg"  width="4%" height="4%">
+<img title="Git" alt="git" src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/git.svg"  width="4%" height="4%"> <img title="NodeJS" alt="nodejs" src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/nodejs.svg"  width="4%" height="4%">
 <img title="React" alt="react" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg"  width="4%" height="4%">
 <img title="Redux" alt="redux" src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg"  width="4%" height="4%">
 <img title="PosgreSQL" alt="posgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"  width="4%" height="4%">
@@ -41,11 +39,11 @@ class whoAmI:
    	return San Fransisco()
 
    def aboutMe():
-	A full-stack developer with experience in building web applications using Ruby on Rails, SQL, CSS, HTML, React, Redux, and JavaScript. Additionally, I have experience with the stock market and financial analysis, which has helped me to build more data-driven applications.
+	A full-stack developer with experience in building web applications using Ruby on Rails, SQL, CSS, HTML, React, Redux, and JavaScript. Additionally, I have 	    experience with the stock market and financial analysis, which has helped me to build more data-driven applications.
 
-	My GitHub repositories showcase my projects, ranging from simple web applications to complex, data-intensive systems. I am passionate about developing high-quality, scalable software that can solve real-world problems.
+	My GitHub repositories showcase my projects, ranging from simple web applications to complex, data-intensive systems. I am passionate about developing high-	    quality, scalable software that can solve real-world problems.
 
-	Collaboration is a key part of my development process, and I enjoy working with other developers to create elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager to explore new tools and frameworks that can help me build better applications.
+	Collaboration is a key part of my development process, and I enjoy working with other developers to create elegant and efficient code. Learning new 		technologies is another passion of mine, and I am always eager to explore new tools and frameworks that can help me build better applications.
 
-	If you are looking for a skilled developer with full-stack experience and a background in financial analysis, please feel free to browse my repositories and get in touch with me for any collaboration or project opportunities.
+	If you are looking for a skilled developer with full-stack experience and a background in financial analysis, please feel free to browse my repositories and 	     get in touch with me for any collaboration or project opportunities.
 ```
