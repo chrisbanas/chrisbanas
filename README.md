@@ -8,6 +8,9 @@
 <img title="HTML" alt="html" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg"  width="4%" height="4%">
 <img title="SQL" alt="sql" src="https://icon2.cleanpng.com/20171221/pkw/database-free-download-png-5a3c4268919c92.9648820315138986005964.jpg"  width="4%" height="4%">
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 ## 💻 Technologies I Use
