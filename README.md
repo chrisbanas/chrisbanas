@@ -18,6 +18,7 @@
 <a href="https://www.microsoft.com/windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/MacOS" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"></a>
+    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
 <p>
 
@@ -99,15 +100,18 @@ class WhoAmI {
     }
 
     aboutMe() {
-        return `A full-stack developer with experience in building web applications using React, Redux, JavaScript, Ruby on Rails, 
-	    HTML, CSS,  and SQL. Additionally, I have experience with the stock market and financial analysis, 
+        return `A full-stack developer with experience in building web applications using 
+	    React, Redux, JavaScript, Ruby on Rails, HTML, CSS,  and SQL. 
+	    Additionally, I have experience with the stock market and financial analysis, 
             which has helped me to build more data-driven applications.
 
-            My GitHub repositories showcase my projects, ranging from simple web applications to complex, data-intensive systems. 
-            I am passionate about developing high quality, scalable software that can solve real-world problems.
+            My GitHub repositories showcase my projects, ranging from simple web applications to complex, 
+	    data-intensive systems. I am passionate about developing high quality, 
+	    scalable software that can solve real-world problems.
 
-            Collaboration is a key part of my development process, and I enjoy working with other developers to create 
-            elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager 
+            Collaboration is a key part of my development process, and I enjoy 
+	    working with other developers to create elegant and efficient code. 
+	    Learning new technologies is another passion of mine, and I am always eager 
             to explore new tools and frameworks that can help me build better applications.
 
             If you are looking for a skilled developer with full-stack experience and a background in financial analysis, 
