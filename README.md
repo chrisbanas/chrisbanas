@@ -59,6 +59,7 @@
   <a href="https://jestjs.io" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"</a>
   <a href="https://platform.openai.com/docs" target="_blank"><img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-FF6600?style=flat-square&logo=openai&logoColor=white"></a>
   <a href="https://developers.google.com/maps" target="_blank"><img alt="Google Maps API" src="https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=red"></a>
+  <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
   <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
 	
@@ -115,12 +116,12 @@ class WhoAmI {
 }
 ```
 <details align="center">
-    <summary><h2>Click for GitHub Stats 📊</h2></summary>
-    <p align="center">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=000000">
-        <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&hide=html,&hide_border=true&title_color=5391FE&text_color=000000">
-    </p>
+    <summary><h2>Click for GitHub Stats 📊</h2></summary>	
+	<p align="center">
+    	<a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false&text_color=ffffff"></a>
+    	<br>
+     	<a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&title_color=5391FE&text_color=ffffff"></a>
+	</p>
 </details>
 
 <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" style="border-radius: 5px;">
