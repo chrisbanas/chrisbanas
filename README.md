@@ -100,22 +100,21 @@ class WhoAmI {
     }
 
     aboutMe() {
-        return `A full-stack developer with experience in building web applications using 
-	    React, Redux, JavaScript, Ruby on Rails, HTML, CSS,  and SQL. 
-	    Additionally, I have experience with the stock market and financial analysis, 
-            which has helped me to build more data-driven applications.
+        return `A full-stack developer with experience in building web applications using React, Redux, JavaScript, 
+	    Ruby on Rails, HTML, CSS,  and SQL. Additionally, I have experience with the stock market and financial 
+	    analysis, which has helped me to build more data-driven applications.
 
             My GitHub repositories showcase my projects, ranging from simple web applications to complex, 
-	    data-intensive systems. I am passionate about developing high quality, 
-	    scalable software that can solve real-world problems.
+	    data-intensive systems. I am passionate about developing high quality, scalable software that 
+	    can solve real-world problems.
 
-            Collaboration is a key part of my development process, and I enjoy 
-	    working with other developers to create elegant and efficient code. 
-	    Learning new technologies is another passion of mine, and I am always eager 
+            Collaboration is a key part of my development process, and I enjoy working with other developers to create 
+	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager 
             to explore new tools and frameworks that can help me build better applications.
 
             If you are looking for a skilled developer with full-stack experience and a background in financial analysis, 
-            please feel free to browse my repositories and get in touch with me for any collaboration or project opportunities.`;
+            please feel free to browse my repositories and get in touch with me for any collaboration or project 
+	    opportunities.`;
     }
 }
 ```
