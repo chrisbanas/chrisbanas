@@ -14,6 +14,8 @@
     
 </p>
 
+<h2 align="center">Stack</h2>
+
 <p align="center">
 <a href="https://www.microsoft.com/windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/MacOS" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
@@ -64,7 +66,7 @@
   <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
 	
-<h2 align="center">📚📖💻 Learning</h2>
+<h2 align="center">📚💻 Learning</h2>
 
 <p align="center">
     <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=blue"></a>
@@ -80,7 +82,14 @@
     <a href="https://naturaldividends.org/" target="_blank"><img alt="Science is my jam" src="https://img.shields.io/badge/My%20jam-Environment-critical?style=flat-square&logo=electron&logoColor=white"></a>
 </p>
 
-
+<details align="center">
+    <summary><h3>Click for GitHub Stats 📊</h3></summary>	
+	<p align="center">
+    	<a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false&text_color=ffffff"></a>
+    	<br>
+     	<a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&title_color=5391FE&text_color=ffffff"></a>
+	</p>
+</details>
 
 ```js
 class WhoAmI {
@@ -110,21 +119,9 @@ class WhoAmI {
 
             Collaboration is a key part of my development process, and I enjoy working with other developers to create 
 	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager 
-            to explore new tools and frameworks that can help me build better applications.
-
-            If you are looking for a skilled developer with full-stack experience and a background in financial analysis, 
-            please feel free to browse my repositories and get in touch with me for any collaboration or project 
-	    opportunities.`;
+            to explore new tools and frameworks that can help me build better applications.;
     }
 }
 ```
-<details align="center">
-    <summary><h2>Click for GitHub Stats 📊</h2></summary>	
-	<p align="center">
-    	<a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false&text_color=ffffff"></a>
-    	<br>
-     	<a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&title_color=5391FE&text_color=ffffff"></a>
-	</p>
-</details>
 
 <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" style="border-radius: 5px;">
