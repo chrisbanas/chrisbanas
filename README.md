@@ -7,26 +7,28 @@
 <p align="center">
     <a href="https://github.com/chrisbanas" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@chrisbanas-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/christopher-banas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-christopherbanas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-    <a href="https://github.com/chrisbanas" target="_blank"><img alt="chrisbanas" src="https://badges.pufler.dev/visits/chrisbanas/chrisbanas?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://stackoverflow.com/users/21989461/chrisbanas" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-chrisbanas-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+    <a href="https://stackexchange.com/users/1372278/chrisbanas" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-chrisbanas-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
     <a href="mailto:banaschg@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-banaschg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" style="border-radius: 5px;"></a>
-    <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" style="border-radius: 5px;">
-    <a href="https://www.christopherbanas.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-christopherbanas.com-informational?style=flat-square&color=black&logo=vercel&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://www.microsoft.com/windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+	    <a href="https://www.christopherbanas.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-christopherbanas.com-informational?style=flat-square&color=black&logo=vercel&logoColor=white" style="border-radius: 5px;"></a>
+    
+</p>
+
+<p align="center">
+<a href="https://www.microsoft.com/windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/MacOS" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-</p>
+<p>
 
-## ⚡ Technologies
+<h2 align="center">⚡ Technologies</h2>
 
 <p align="center">
     <a href="https://expressjs.com" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></a>
     <a href="https://www.ruby-lang.org" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"></a>
     <a href="https://rubyonrails.org" target="_blank"><img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"></a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=green"></a>
+    <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=darkgreen"></a>
     <a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
@@ -36,35 +38,52 @@
     <a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a>
     <a href="https://www.mysql.com" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=blue"></a>
     <a href="https://www.heroku.com" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"></a>
-	<a href="https://aws.amazon.com" target="_blank"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=yellow"></a>
+    <a href="https://aws.amazon.com" target="_blank"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=yellow"></a>
     <a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange"></a>
     <a href="https://github.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-	    <a href="https://sass-lang.com" target="_blank"><img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://rspec.info" target="_blank"><img alt="RSpec" src="https://img.shields.io/badge/-RSpec-8F8F8F?style=flat-square&logo=ruby&logoColor=red" style="border-radius: 5px;"></a>
-    <a href="https://jasmine.github.io" target="_blank"><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://jestjs.io" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" style="border-radius: 5px;"></a>
-	<a href="https://sass-lang.com" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://www.sqlite.org" target="_blank"><img alt="SQLite3" src="https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://www.mongodb.com" target="_blank"><img alt="MERN" src="https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=mongodb&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://d3js.org" target="_blank"><img alt="D3" src="https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3.js&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://webpack.js.org" target="_blank"><img alt="webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://babeljs.io" target="_blank"><img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" style="border-radius: 5px;"></a>
-<a href="https://www.w3schools.com/html/html5_canvas.asp" target="_blank"><img alt="Canvas" src="https://img.shields.io/badge/-Canvas-FFD700?style=flat-square&logo=html5&logoColor=black" style="border-radius: 5px;"></a>
-    <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" style="border-radius: 5px;"></a>
-<a href="https://developers.google.com/maps" target="_blank"><img alt="Google Maps API" src="https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white" style="border-radius: 5px;"></a>
-    <a href="https://platform.openai.com/docs" target="_blank"><img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-FF6600?style=flat-square&logo=openai&logoColor=white" style="border-radius: 5px;"></a>
-	<a href="https://aws.amazon.com/s3" target="_blank"><img alt="AWS Buckets" src="https://img.shields.io/badge/-AWS%20Buckets-232F3E?style=flat-square&logo=amazon-s3&logoColor=white" style="border-radius: 5px;"></a>
+    <a href="https://sass-lang.com" target="_blank"><img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white"></a>
+    <a href="https://rspec.info" target="_blank"><img alt="RSpec" src="https://img.shields.io/badge/-RSpec-8F8F8F?style=flat-square&logo=ruby&logoColor=red"></a>
+    <a href="https://jasmine.github.io" target="_blank"><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white"></a>
+    <a href="https://jestjs.io" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"</a>
+    <a href="https://sass-lang.com" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"></a>
+    <a href="https://www.sqlite.org" target="_blank"><img alt="SQLite3" src="https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=lightblue"></a>
+    <a href="https://www.mongodb.com" target="_blank"><img alt="MERN" src="https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=mongodb&logoColor=darkgreen"></a>
+    <a href="https://www.npmjs.com" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="https://d3js.org" target="_blank"><img alt="D3" src="https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3.js&logoColor=white"></a>
+    <a href="https://webpack.js.org" target="_blank"><img alt="webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"></a>
+    <a href="https://babeljs.io" target="_blank"><img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black"></a>
+    <a href="https://www.w3schools.com/html/html5_canvas.asp" target="_blank"><img alt="Canvas" src="https://img.shields.io/badge/-Canvas-FFD700?style=flat-square&logo=html5&logoColor=black"></a>
+    <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
+    <a href="https://developers.google.com/maps" target="_blank"><img alt="Google Maps API" src="https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=red"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white"></a>
+    <a href="https://platform.openai.com/docs" target="_blank"><img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-FF6600?style=flat-square&logo=openai&logoColor=white"></a>
+    <a href="https://aws.amazon.com/s3" target="_blank"><img alt="AWS Buckets" src="https://img.shields.io/badge/-AWS%20Buckets-232F3E?style=flat-square&logo=amazon-s3&logoColor=yellow"></a>
+</p>
+	
+<h2 align="center">📚📖💻 Learning</h2>
+
+<p align="center">
+    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=blue"></a>
+	<a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
 </p>
 
+<h2 align="center">Who am I</h2>
 
-## Who am I?
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Homo_sapiens" target="_blank"><img alt="Species" src="https://img.shields.io/badge/Species-Homosapien-success?style=flat-square&logo=mailchimp&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/Life" target="_blank"><img alt="Status" src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white"></a>
+    <a href="https://www.appacademy.io" target="_blank"><img alt="My job" src="https://img.shields.io/badge/Graduate-App_Academy-success?style=flat-square&logo=microgenetics&logoColor=white"></a>
+    <a href="https://naturaldividends.org/" target="_blank"><img alt="Science is my jam" src="https://img.shields.io/badge/My%20jam-Environment-critical?style=flat-square&logo=electron&logoColor=white"></a>
+</p>
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-intelliatx-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.intelliatx.com/crisprcas9/)
-[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
+<details align="center">
+    <summary><h2>Click for GitHub Stats</h2></summary>
+    <p align="center">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=000000">
+        <br>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&hide=html,&hide_border=true&title_color=5391FE&text_color=000000">
+    </p>
+</details>
 
 ```ruby
 class whoAmI:
@@ -95,3 +114,5 @@ class whoAmI:
 	If you are looking for a skilled developer with full-stack experience and a background in financial analysis, 
 	please feel free to browse my repositories and get in touch with me for any collaboration or project opportunities.
 ```
+
+<img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" style="border-radius: 5px;">
