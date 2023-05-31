@@ -47,6 +47,7 @@
   <a href="https://webpack.js.org" target="_blank"><img alt="webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"></a>
   <a href="https://babeljs.io" target="_blank"><img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black"></a>
   <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"></a>
+  <a href="https://www.postman.com" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
   <a href="https://aws.amazon.com/s3" target="_blank"><img alt="AWS Buckets" src="https://img.shields.io/badge/-AWS%20Buckets-232F3E?style=flat-square&logo=amazon-s3&logoColor=yellow"></a>
   <a href="https://d3js.org" target="_blank"><img alt="D3" src="https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3.js&logoColor=white"></a>
   <a href="https://redis.io" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=red"></a>
