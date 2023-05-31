@@ -106,14 +106,14 @@ class WhoAmI {
 </p>
 
 
-<details align="center">
+<!-- <details align="center">
     <summary><h3>Click for GitHub Stats 📊</h3></summary>	
 <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false&text_color=ffffff"></a>
     <a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&title_color=5391FE&text_color=ffffff&layout=compact"></a>
 </div>
 
-</details>
+</details> -->
 
 
 <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" style="border-radius: 5px;">
