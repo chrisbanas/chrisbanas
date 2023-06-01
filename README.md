@@ -1,8 +1,8 @@
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Chris!
-</h1>
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=40&pause=9000&color=white&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHey+there+I'm+Chris!">
+</div>
+
+<hr>
 
 <p align="center">
     <a href="https://github.com/chrisbanas" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@chrisbanas-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
