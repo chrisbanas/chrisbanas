@@ -39,16 +39,16 @@ class WhoAmI {
     }
 
     aboutMe() {
-        return `A full-stack developer with experience in building web applications using React, Redux, JavaScript, 
-	    Ruby on Rails, HTML, CSS,  and SQL. Additionally, I have experience with the stock market and financial 
+        return `A full-stack developer with experience in building web applications using React, Redux, JavaScript,
+	    Ruby on Rails, HTML, CSS,  and SQL. Additionally, I have experience with the stock market and financial
 	    analysis, which has helped me to build more data-driven applications.
 
-            My GitHub repositories showcase my projects, ranging from simple web applications to complex, 
-	    data-intensive systems. I am passionate about developing high quality, scalable software that 
+            My GitHub repositories showcase my projects, ranging from simple web applications to complex,
+	    data-intensive systems. I am passionate about developing high quality, scalable software that
 	    can solve real-world problems.
 
-            Collaboration is a key part of my development process, and I enjoy working with other developers to create 
-	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager 
+            Collaboration is a key part of my development process, and I enjoy working with other developers to create
+	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager
             to explore new tools and frameworks that can help me build better applications.;
     }
 }
@@ -99,7 +99,7 @@ class WhoAmI {
   <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
   <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
-	
+
 <h2 align="center">📚💻 Learning</h2>
 
 <p align="center">
@@ -109,29 +109,24 @@ class WhoAmI {
 
 
 <!-- <details align="center">
-    <summary><h3>Click for GitHub Stats 📊</h3></summary>	
+    <summary><h3>Click for GitHub Stats 📊</h3></summary>
 <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false&text_color=ffffff"></a>
     <a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&title_color=5391FE&text_color=ffffff&layout=compact"></a>
 </div>
 
 </details> -->
-	  
+
 <!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false"></a>
 	 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&layout=compact"></a>
 </p> -->
-	  
+
 <h2 align="center">GitHub Stats 📊</h2>
-	  
+
+![Snake animation](https://github.com/chrisbanas/chrisbanas/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left">
 <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas">
 <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
 </p>
-
-
-
-
-
-
-
