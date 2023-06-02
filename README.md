@@ -54,7 +54,7 @@ class WhoAmI {
 }
 ```
 
-<h2 align="center">⚡ Technologies</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"></a>
@@ -78,6 +78,7 @@ class WhoAmI {
   <a href="https://www.npmjs.com" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
   <a href="https://www.mongodb.com" target="_blank"><img alt="MERN" src="https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=mongodb&logoColor=darkgreen"></a>
   <a href="https://expressjs.com" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></a>
+  <a href="https://reactrouter.com" target="_blank"><img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"></a>
   <a href="https://webpack.js.org" target="_blank"><img alt="webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"></a>
   <a href="https://babeljs.io" target="_blank"><img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black"></a>
   <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"></a>
@@ -89,6 +90,7 @@ class WhoAmI {
   <a href="https://codesandbox.io" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white">
   <a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange"></a>
   <a href="https://github.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.markdownguide.org" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"></a>
   <a href="https://rspec.info" target="_blank"><img alt="RSpec" src="https://img.shields.io/badge/-RSpec-8F8F8F?style=flat-square&logo=ruby&logoColor=red"></a>
   <a href="https://jasmine.github.io" target="_blank"><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white"></a>
   <a href="https://jestjs.io" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"</a>
@@ -114,6 +116,22 @@ class WhoAmI {
 </div>
 
 </details> -->
+	  
+<!-- <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false"></a>
+	 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&layout=compact"></a>
+</p> -->
+	  
+<h2 align="center">GitHub Stats 📊</h2>
+	  
+<p align="left">
+<img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas">
+<img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
+</p>
 
 
-<img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" style="border-radius: 5px;">
+
+
+
+
+
