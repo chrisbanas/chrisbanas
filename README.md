@@ -124,9 +124,14 @@ class WhoAmI {
 
 <h2 align="center">GitHub Stats 📊</h2>
 
+	  
+<p align="center">
+  <img alt="Closed Issues" src="https://img.shields.io/static/v1?label=Closed%20Issues&message=30&color=2b9348&logo=github&style=flat-square">
+  <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
+</p>  
+
 ![Snake animation](https://github.com/chrisbanas/chrisbanas/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas">
-  <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
 </p>
