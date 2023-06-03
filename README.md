@@ -54,7 +54,7 @@ class WhoAmI {
 }
 ```
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">🥞 Tech Stack</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"></a>
@@ -100,7 +100,7 @@ class WhoAmI {
   <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
 
-<h2 align="center">📚💻 Learning</h2>
+<h2 align="center">👨‍💻 Learning</h2>
 
 <p align="center">
     <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=blue"></a>
