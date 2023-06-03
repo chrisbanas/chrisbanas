@@ -126,7 +126,9 @@ class WhoAmI {
 
 	  
 <p align="center">
-  <img alt="Closed Issues" src="https://img.shields.io/static/v1?label=Closed%20Issues&message=30&color=2b9348&logo=github&style=flat-square">
+  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=878&color=2b9348&logo=github&style=flat-square">
+  <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=55&color=2b9348&logo=github&style=flat-square">
+  <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=52&color=2b9348&logo=github&style=flat-square">
   <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
 </p>  
 
