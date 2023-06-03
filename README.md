@@ -122,7 +122,7 @@ class WhoAmI {
 	 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&layout=compact"></a>
 </p> -->
 
-<h2 align="center">GitHub Impact 📈</h2>
+<h2 align="center">📈 GitHub Impact</h2>
 
 	  
 <p align="center">
