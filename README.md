@@ -90,6 +90,7 @@ class WhoAmI {
   <a href="https://codesandbox.io" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white">
   <a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange"></a>
   <a href="https://github.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/actions" target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"></a>
   <a href="https://www.markdownguide.org" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"></a>
   <a href="https://rspec.info" target="_blank"><img alt="RSpec" src="https://img.shields.io/badge/-RSpec-8F8F8F?style=flat-square&logo=ruby&logoColor=red"></a>
   <a href="https://jasmine.github.io" target="_blank"><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white"></a>
