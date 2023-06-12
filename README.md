@@ -108,23 +108,7 @@ class WhoAmI {
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
 </p>
 
-
-<!-- <details align="center">
-    <summary><h3>Click for GitHub Stats 📊</h3></summary>
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false&text_color=ffffff"></a>
-    <a href="https://github.com/chrisbanas/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&title_color=5391FE&text_color=ffffff&layout=compact"></a>
-</div>
-
-</details> -->
-
-<!-- <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrisbanas&show_icons=true&theme=github_dark&hide_border=false"></a>
-	 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&theme=github_dark&hide_border=false&layout=compact"></a>
-</p> -->
-
 <h2 align="center">📈 GitHub Impact</h2>
-
 	  
 <p align="center">
   <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=878&color=2b9348&logo=github&style=flat-square">
