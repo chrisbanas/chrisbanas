@@ -30,7 +30,7 @@ class WhoAmI {
             'Hiking',
             'Gaming',
             'Stock Market',
-            'Saving our Environment'
+            'Saving our Environment
         ];
     }
 
@@ -44,7 +44,7 @@ class WhoAmI {
 	    analysis, which has helped me to build more data-driven applications.
 
             My GitHub repositories showcase my projects, ranging from simple web applications to complex,
-	    data-intensive systems. I am passionate about developing high quality, scalable software that
+	    data-intensive systems. I am passionate about developing high-quality, scalable software that
 	    can solve real-world problems.
 
             Collaboration is a key part of my development process, and I enjoy working with other developers to create
@@ -122,4 +122,4 @@ class WhoAmI {
 <p align="center">
   <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas">
 </p>
-<h6 align="center">This README is dynamically updated every 6 hours using github actions</h6>
+<h6 align="center">This README is dynamically updated every 6 hours using GitHub actions</h6>
