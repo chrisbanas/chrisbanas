@@ -19,6 +19,7 @@
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"></a>
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white"></a>
 <p>
 
 ```js
@@ -90,11 +91,12 @@ class WhoAmI {
   <a href="https://codesandbox.io" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white">
   <a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange"></a>
   <a href="https://github.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://github.com/actions" target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"></a>
+  <a href="https://github.com/actions" target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"></a>
   <a href="https://www.markdownguide.org" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"></a>
   <a href="https://rspec.info" target="_blank"><img alt="RSpec" src="https://img.shields.io/badge/-RSpec-8F8F8F?style=flat-square&logo=ruby&logoColor=red"></a>
   <a href="https://jasmine.github.io" target="_blank"><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white"></a>
-  <a href="https://jestjs.io" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"</a>
+  <a href="https://jestjs.io" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"</a> 
+  <a href="https://playwright.dev/" target="_blank"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-%2343853D.svg?style=flat-square&logo=playwright&logoColor=white"></a>
   <a href="https://platform.openai.com/docs" target="_blank"><img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-FF6600?style=flat-square&logo=openai&logoColor=white"></a>
   <a href="https://developers.google.com/maps" target="_blank"><img alt="Google Maps API" src="https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=red"></a>
   <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
@@ -104,6 +106,7 @@ class WhoAmI {
 <h2 align="center">👨‍💻 Learning</h2>
 
 <p align="center">
+    <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"></a>
     <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=blue"></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
 </p>
