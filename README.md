@@ -36,7 +36,7 @@ class WhoAmI {
     }
 
     getCity() {
-        return 'San Francisco';
+        return 'Santa Clara';
     }
 
     aboutMe() {
