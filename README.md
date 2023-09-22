@@ -20,7 +20,13 @@
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white"></a>
-<p>
+</p>
+
+<p align="center">
+    <a href="https://leetcode.com/chrisbanas/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-chrisbanas-FFA116?style=flat-square&logo=leetcode"></a>
+    <a href="https://www.codewars.com/users/chrisbanas" target="_blank"><img alt="CodeWars" src="https://img.shields.io/badge/CodeWars-chrisbanas-B1361E?style=flat-square&logo=codewars"></a>
+    <a href="https://www.hackerrank.com/chrisbanas?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-chrisbanas-2EC866?style=flat-square&logo=hackerrank"></a>
+</p>
 
 ```js
 class WhoAmI {
