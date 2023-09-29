@@ -120,7 +120,7 @@ class WhoAmI {
 <h2 align="center">📈 GitHub Impact</h2>
 	  
 <p align="center">
-  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=1296&color=2b9348&logo=github&style=flat-square">
+  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=1302&color=2b9348&logo=github&style=flat-square">
   <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=57&color=2b9348&logo=github&style=flat-square">
   <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=53&color=2b9348&logo=github&style=flat-square">
   <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
