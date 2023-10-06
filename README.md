@@ -24,7 +24,7 @@
 
 <p align="center">
     <a href="https://leetcode.com/chrisbanas/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-chrisbanas-FFA116?style=flat-square&logo=leetcode"></a>
-    <a href="https://www.codewars.com/users/chrisbanas" target="_blank"><img alt="CodeWars" src="https://img.shields.io/badge/CodeWars-chrisbanas-B1361E?style=flat-square&logo=codewars"></a>
+    <a href="https://www.codewars.com/users/chrisbanas" target="_blank"><img alt="CodeWars" src="https://www.codewars.com/users/chrisbanas/badges/micro"></a>
     <a href="https://www.hackerrank.com/chrisbanas?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-chrisbanas-2EC866?style=flat-square&logo=hackerrank"></a>
 </p>
 
@@ -120,7 +120,7 @@ class WhoAmI {
 <h2 align="center">📈 GitHub Impact</h2>
 	  
 <p align="center">
-  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=1378&color=2b9348&logo=github&style=flat-square">
+  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=1388&color=2b9348&logo=github&style=flat-square">
   <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=57&color=2b9348&logo=github&style=flat-square">
   <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=53&color=2b9348&logo=github&style=flat-square">
   <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
