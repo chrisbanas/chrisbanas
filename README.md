@@ -28,6 +28,13 @@
     <a href="https://www.hackerrank.com/chrisbanas?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-chrisbanas-2EC866?style=flat-square&logo=hackerrank"></a>
 </p>
 
+<p align="center">
+	<a href="https://chrisbanas.github.io/resume/" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-Christopher_Banas-informational?style=flat-square&color=YOUR_COLOR_HERE&logo=YOUR_LOGO_HERE&logoColor=white" 	style="border-radius: 5px;"></a>
+</p>
+
+
+
+
 ```js
 class WhoAmI {
     constructor() {
