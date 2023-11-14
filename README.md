@@ -39,7 +39,7 @@
 class WhoAmI {
     constructor() {
         this.user = 'Christopher Banas';
-        this.current_work = 'Graduate of App Academy';
+        this.currently = 'Student @ University of Pennsylvania';
         this.hobbies = [
             'Hiking',
             'Gaming',
