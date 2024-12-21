@@ -52,7 +52,7 @@ class WhoAmI {
     }
 
     getCity() {
-        return 'Santa Clara';
+        return 'Bellevue';
     }
 
     aboutMe() {
