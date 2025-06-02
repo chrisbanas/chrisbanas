@@ -66,7 +66,7 @@ class WhoAmI {
 
             Collaboration is a key part of my development process, and I enjoy working with other developers to create
 	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager
-            to explore new tools and frameworks that can help me build better applications.;
+            to explore new tools and frameworks that can help me build better applications.`
     }
 }
 ```
