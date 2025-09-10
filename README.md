@@ -67,9 +67,9 @@ class WhoAmI {
 	    	can solve real-world problems.
 
 			While I have gained a lot from these experiences, I believe there’s more to learn and am pursuing my
-			Master of Computer and Information Technology (MCIT) at the University of Pennsylvania. I'm always looking
-			to connect! If you're interested in learning more about my experience, please don't hesitate to send me a
-			message or connect with me here on LinkedIn`
+			Master of Computer and Information Technology (MCIT) at the University of Pennsylvania. I'm always
+			looking to connect! If you're interested in learning more about my experience, please don't hesitate 
+			to send me a message or connect with me here or on LinkedIn`
     }
 }
 ```
