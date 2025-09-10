@@ -52,21 +52,24 @@ class WhoAmI {
     }
 
     getCity() {
-        return 'Bellevue';
+        return 'Bellevue, WA';
     }
 
     aboutMe() {
-        return `A full-stack developer with experience in building web applications using React, Redux, JavaScript,
-	    Ruby on Rails, HTML, CSS,  and SQL. Additionally, I have experience with the stock market and financial
-	    analysis, which has helped me to build more data-driven applications.
+        return `I’ve seen firsthand how the right software solutions can transform businesses, whether streamlining
+ 			a $250M division’s operations, starting my own ventures, building full-stack apps during my time at
+			App Academy, or engineering demos and automation pipelines at ServiceNow. That realization is what drew
+			me fully into software engineering: the ability to solve complex problems with code, automate processes,
+			and create tools that drive real-world impact.
 
             My GitHub repositories showcase my projects, ranging from simple web applications to complex,
-	    data-intensive systems. I am passionate about developing high-quality, scalable software that
-	    can solve real-world problems.
+	    	data-intensive systems. I am passionate about developing high-quality, scalable software that
+	    	can solve real-world problems.
 
-            Collaboration is a key part of my development process, and I enjoy working with other developers to create
-	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager
-            to explore new tools and frameworks that can help me build better applications.`
+			While I have gained a lot from these experiences, I believe there’s more to learn and am pursuing my
+			Master of Computer and Information Technology (MCIT) at the University of Pennsylvania. I'm always looking
+			to connect! If you're interested in learning more about my experience, please don't hesitate to send me a
+			message or connect with me here on LinkedIn`
     }
 }
 ```
@@ -130,7 +133,7 @@ class WhoAmI {
 <h2 align="center">📈 GitHub Impact</h2>
 	  
 <p align="center">
-  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=4194&color=2b9348&logo=github&style=flat-square">
+  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=8585&color=2b9348&logo=github&style=flat-square">
   <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=57&color=2b9348&logo=github&style=flat-square">
   <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=53&color=2b9348&logo=github&style=flat-square">
   <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
