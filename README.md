@@ -78,7 +78,10 @@ class WhoAmI {
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  <img alt="Dynamic language metrics" src="./metrics.plugin.languages.indepth.svg" />
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbanas&layout=compact&langs_count=8&card_width=700&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=00000000&size_weight=0.5&count_weight=0.5"
+  />
 </p>
 
 <hr>
@@ -86,7 +89,11 @@ class WhoAmI {
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img alt="3D contribution profile" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
 
 <p align="center">
