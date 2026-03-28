@@ -78,7 +78,7 @@ class WhoAmI {
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  <img alt="Stack" src="./profile/metrics.plugin.languages.indepth.svg" />
+  <img alt="Stack" src="./profile/languages.svg" />
 </p>
 
 <hr>
@@ -86,7 +86,11 @@ class WhoAmI {
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img alt="Pac-Man contribution graph" src="./profile/pacman-contribution-graph.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="./profile/pacman-contribution-graph.svg" />
+  </picture>
 </p>
 
 <p align="center">
