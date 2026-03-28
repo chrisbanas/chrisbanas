@@ -78,62 +78,15 @@ class WhoAmI {
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-111111?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-<hr>
-
-<h2 align="center">Dynamic Stack</h2>
-
-<p align="center">
   <img alt="Dynamic language metrics" src="./metrics.plugin.languages.indepth.svg" />
-</p>
-
-<p align="center">
-  Tech stack inferred from repositories you own or contribute to across GitHub.
 </p>
 
 <hr>
 
 <h2 align="center">GitHub Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<hr>
-
-<h2 align="center">Pac-Man Mode</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/chrisbanas/chrisbanas/output/pacman-contribution-graph.svg" />
-</picture>
-
-<hr>
-
-<h2 align="center">3D Contributions</h2>
-
 <p align="center">
   <img alt="3D contribution profile" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-<p align="center">
-  <img alt="Isometric contribution calendar" src="./metrics.plugin.isocalendar.fullyear.svg" />
 </p>
 
 <p align="center">
