@@ -96,13 +96,13 @@ class WhoAmI {
 
 <h2 align="center">Dynamic Stack</h2>
 
-<img alt="Dynamic language metrics" src="./metrics.plugin.languages.indepth.svg" />
-
 <p align="center">
-  Tech stack inferred from repositories and commits associated with this account.
+  <img alt="Dynamic language metrics" src="./metrics.plugin.languages.indepth.svg" />
 </p>
 
-<img alt="Coding habits metrics" src="./metrics.plugin.habits.svg" />
+<p align="center">
+  Tech stack inferred from repositories you own or contribute to across GitHub.
+</p>
 
 <hr>
 
@@ -128,9 +128,13 @@ class WhoAmI {
 
 <h2 align="center">3D Contributions</h2>
 
-<img alt="3D contribution profile" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<p align="center">
+  <img alt="3D contribution profile" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
-<img alt="Isometric contribution calendar" src="./metrics.plugin.isocalendar.fullyear.svg" />
+<p align="center">
+  <img alt="Isometric contribution calendar" src="./metrics.plugin.isocalendar.fullyear.svg" />
+</p>
 
 <p align="center">
   <img alt="Visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas" />
