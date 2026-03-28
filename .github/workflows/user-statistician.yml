@@ -1,5 +1,9 @@
 name: generate stack card
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: "0 8 * * *"
@@ -34,7 +38,16 @@ jobs:
           animated-language-chart: true
           colors: dark
           image-width: 720
-          commit-and-push: true
+          commit-and-push: false
           commit-message: "Update stack card"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/languages.svg
+          git commit -m "Update stack card" || exit 0
+          git pull --rebase origin main
+          git push
