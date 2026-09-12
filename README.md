@@ -29,7 +29,7 @@ class WhoAmI {
     this.currently = [
       "Senior Applied AI Engineer @ ServiceNow",
       "Tech Lead for CPQ on CRM AI Foundry",
-      "MCIT Candidate @ University of Pennsylvania"
+      "MAS-CS Candidate @ University of Pennsylvania"
     ];
     this.focus = [
       "Applied AI solutions",
